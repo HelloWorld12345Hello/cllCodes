@@ -1,0 +1,1 @@
+the python code named "Freq" or "Frequency" were used to extrat the freq of trials from the start of each trial in sessions with bug.
