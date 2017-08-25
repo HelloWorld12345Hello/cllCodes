@@ -1,6 +1,7 @@
 % cd('E:\behavior_417\20151027\PS'); %datapath
 clc;
 clear;
+close all;
 %%
 clc;
 clear;
